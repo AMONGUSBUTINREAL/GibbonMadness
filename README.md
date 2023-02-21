@@ -1,4 +1,4 @@
-NEW ZERO GRAV LOADING SCREEN JOIN DISCORD PLEASE! https://discord.gg/z8sVf53KsM
--Loading Screen 
--Zero Grav
--yes
+NEW BIG MAP AND CHIMPS JOIN DISCORD PLEASE! https://discord.gg/z8sVf53KsM
+-Chimps are planning something.. 
+-Bug Fixes
+-New Map aka big slide map
