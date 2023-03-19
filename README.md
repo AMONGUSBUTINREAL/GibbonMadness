@@ -1,14 +1,7 @@
-GIBBON MADNESS HAS GOTTEN THE REMAKE,LIKE THE NEW GRAPHICS HERES WHATS INCLUDED IN THE NEW UPDATE! JOIN THE DISCORD!!! https://discord.gg/z8sVf53KsM
--New Map
--Moon (possibly working)
--No Shop YET will make that later on
--WAY better graphics 
--Occulusion Culling
--Room codes! (possibly working)
--Working elevator!
--Second Floor
--More Mod cosmetics
--New slides
--Water falls and water shaders noise 
--Exepct Lots of bugs!
--Lastly enjoy!
+A FEW BUG FIXES AN MORE! JOIN THE DISCORD!!! https://discord.gg/z8sVf53KsM
+-Bug Fixes
+-Mod Bug fixes
+-Hopefully cosmetics are fixed 
+-Fixed Rig
+-Lowered Camp fire
+-Removed Moon (sadly to bugs)
