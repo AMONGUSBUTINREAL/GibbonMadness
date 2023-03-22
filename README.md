@@ -1,8 +1,7 @@
-BUG FIXES AND THINGS ADDED!! JOIN THE DISCORD!!! https://discord.gg/z8sVf53KsM
+BUG FIXES MOSTLY JOIN THE DISCORD!!! https://discord.gg/z8sVf53KsM
 -Bug Fixes
 -Mod Bug fixes
--New Shop
--Fixed Rig
--Sercert Tunnel
--Colors!
--Horror(coming soon not here yet)!
+-Shop Fixes
+-Even more Bug fixes
+-Secret Tunnel has got closed (due to glitches)
+-Colors are fixed!
