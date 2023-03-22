@@ -1,7 +1,8 @@
-A FEW BUG FIXES AN MORE! JOIN THE DISCORD!!! https://discord.gg/z8sVf53KsM
+BUG FIXES AND THINGS ADDED!! JOIN THE DISCORD!!! https://discord.gg/z8sVf53KsM
 -Bug Fixes
 -Mod Bug fixes
--Hopefully cosmetics are fixed 
+-New Shop
 -Fixed Rig
--Lowered Camp fire
--Removed Moon (sadly to bugs)
+-Sercert Tunnel
+-Colors!
+-Horror(coming soon not here yet)!
