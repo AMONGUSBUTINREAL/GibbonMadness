@@ -1,6 +1,5 @@
-Bug fixes and things added! JOIN THE DISCORD!!! https://discord.gg/z8sVf53KsM
--Bug Fixes for elevator
--Added  Shirnk thingy
--Fixed Lag in shop
--Fixed Shirnking (hopefully)
--Removed Jexx Video stuff
+Added Things more of a content update JOIN THE DISCORD!!! https://discord.gg/z8sVf53KsM
+-Added Markiballer at top of elevator
+-Added mario and yoshi
+-Added Cosmetics
+-Added Cat
