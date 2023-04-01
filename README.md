@@ -1,7 +1,5 @@
-Servers still could go down. JOIN THE DISCORD!!! https://discord.gg/acornstudios
--Shop is changing or the power is
--Bug Fixes
--New Patareon and Server booster thing
--Out of the map fix
--New Sercet tunnel
-ITS COMING...
+WE REACHED OUR GOAL but its so close to coming. JOIN THE DISCORD!!! https://discord.gg/acornstudios
+-Night
+-Lights are almost gone in shop
+-The tunnel is making some growling
+-Bug fixes
