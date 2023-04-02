@@ -1,5 +1,6 @@
-OMG OMG IT OPENED BUT HOW U GONNA GET THERE. JOIN THE DISCORD!!! https://discord.gg/acornstudios
+HORROR IS OFFICALY OUT!! JOIN THE DISCORD!!! https://discord.gg/acornstudios
 -Out of the map fixes
--April Fools get FOOLED
--Your not funni hehe
--omg omg it opened (totally you can go in there)
+-Horror is now out
+-No more April Fools
+-Bug fixes
+-Possibly Punching??
