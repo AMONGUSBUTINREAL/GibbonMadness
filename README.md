@@ -1,6 +1,8 @@
-HORROR IS OFFICALY OUT!! JOIN THE DISCORD!!! https://discord.gg/acornstudios
+CONTENT UPDATEEEEE!! JOIN THE DISCORD!!! https://discord.gg/acornstudios
 -Out of the map fixes
--Horror is now out
--No more April Fools
+-Horror bug fixes
+-Added Cosmetics to shop
+-Shop Intro 
 -Bug fixes
--Possibly Punching??
+-EASTER
+-live event!
