@@ -1,8 +1,7 @@
-CONTENT UPDATEEEEE!! JOIN THE DISCORD!!! https://discord.gg/acornstudios
--Out of the map fixes
+LIVE EVENT STARTED BUT THEN YUH JOIN THE DISCORD!!! https://discord.gg/acornstudios
+-fixed lighting
 -Horror bug fixes
--Added Cosmetics to shop
--Shop Intro 
+-Fixed cosmetics in shop 
 -Bug fixes
 -EASTER
--live event!
+-New Game mode!
