@@ -1,7 +1,7 @@
-LIVE EVENT STARTED BUT THEN YUH JOIN THE DISCORD!!! https://discord.gg/acornstudios
--fixed lighting
+STUFF ADDED AND REMOVED JOIN THE DISCORD!!! https://discord.gg/acornstudios
+-Added a bridge
 -Horror bug fixes
--Fixed cosmetics in shop 
+-Tablet in horror
 -Bug fixes
--EASTER
--New Game mode!
+-Delted Mario and Yoshi due to copyrights
+-Removed gamemode
