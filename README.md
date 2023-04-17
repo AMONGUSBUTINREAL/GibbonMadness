@@ -1,7 +1,8 @@
-FIXED LAG AND ADDED THINGS JOIN THE DISCORD!!! https://discord.gg/acornstudios
--Playfab currency
--Photon Auth
--Fixed Laser Guns
--Fixed Lag
--Added Jman World posters
--One chimp has been added try and find him.
+FIXED LAG FR THIS TIME AND ADDED A SERCET JOIN THE DISCORD!!! https://discord.gg/acornstudios
+-Fixed lag fr this time
+-Added a well
+-Added a sercet
+-One chimp
+-Added/Fixed the weather system
+-Day time
+-Horror Closed off until night
