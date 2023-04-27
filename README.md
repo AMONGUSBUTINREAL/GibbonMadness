@@ -1,7 +1,5 @@
-NO MORE LOCKDOWN HAVE FUN! JOIN THE DISCORD!!! https://discord.gg/acornstudios
--Hopefully fixed Weather System
--Fixed Bugs
--Added AUTH
--No more lockdown
--Removed somethings
--HopeFully fixed LaserGuns
+PUNCHING AND COSMETICS! JOIN THE DISCORD!!! https://discord.gg/acornstudios
+-Fixed bugs (like alot)
+-Hopefully fixed lag
+-2 new cosmetics
+
